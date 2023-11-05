@@ -78,4 +78,3 @@ We acknowledge the valuable data sources used for this project:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
